@@ -1,0 +1,354 @@
+﻿Erakond MÕÕDUKAD
+Programm Põhikiri
+
+EESTI TEE 21. SAJANDISSE 
+Erakonna MÕÕDUKAD programm
+SAATEKS
+   Eesti on teel kolmandasse aastatuhandesse, infoühiskonda ja Euroopa Liitu. Võõrast võimust oleme jälle kord vabaks saanud. Sajandivahetuseks on omariikluse alused väikese ajaproovigi vastu pidanud. Üleminekuaja eesmärgid olid lihtsad ja selged, kaugemad sihid jäid vabanemise hoos tähelepanuta.
+   Nüüd on aeg kavandada Eesti arenguteed kaugemale ja sügavamalt, ühiskonna kõigi osade, Eesti ja välisilma huve arvesse võttes ja tasakaalustades. Eesti arengukavad vajavad ühiskonna teadlikku omaksvõttu ja nende täitmine erinevate poliitiliste jõudude kokkuleppeid.
+   Millist Eestit me tahame? Millise Eesti me pärandame oma lastelastele? Mida me üheskoos suudame? Mõistagi ei ole ühe väikese rahva tahe ja suutlikkus piiritud. Isegi siis mitte, kui luige, haugi ja vähina vedamine vaid minevikku jääks. Meie võimalustele seavad raamid rahvaarv, rahvuskultuurilise identiteedi piirid, geopoliitiline asend, majanduse lähteseis ja potentsiaal ning loodusvarad. Aga neid raame lubavad avardada ühiskonna mõistlik avatus, rahva ja poliitikute tarkus ning niisugune elukorraldus, milles igaühe aktiivsus lülitub suurimal määral ühiskasu loomisse. Avatud maailm ja tärkav infoühiskond on Eestile lootustandev võimalus.
+   Eesti on väike. Et püsida iseseisva ja jätkusuutlikuna, peab väike ühiskond end suurega võrreldes pingutama rohkem ja teadlikumalt. Eduteel on väikese riigi kiirendus suurem kui suure oma, kuid iga eksisamm annab end tunda valusamalt. Eestis peab efektiivse avaliku ja tugeva erasektori kõrval toimima mitmekesine kodanikuühiskond. Puuduva kvantiteedi peab korvama eeskujulik kvaliteet. 
+   Kiired reformid ja turumajandus on andnud Eestile hea majanduskasvu. Õiguskorra ja konkurentsiga juhitud turg on majanduse võimas ja efektiivne mootor. Kuid turustiihia võimu peab ühiskond sihipäraselt suunama ja tasandama. Ühiskondlike kokkulepete, arengukavade, seadusandluse, hariduse, sotsiaalkindlustuse, tööhõive, keskkonnahoiu ning regionaal-ja välispoliitika abil peab seda tegema riik, kasutades selleks avalikku võimu nii keskvalitsuse kui kohaliku omavalitsuse tasandil ning arendades koostööd ettevõtjate ja valitsusväliste organisatsioonidega. Riigi olemus on seejuures sotsiaalne ja humanitaarne. 
+   Eesti vajab erakondi ja poliitikuid, kes tegutseksid üldise hüve, mitte omakasu nimel. 
+   Mõõdukate arvates peab Eesti ühiskond lähiajal keskenduma järgmiste küsimuste lahendamisele: 
+- Kuidas tõsta Eesti inimarengu kvaliteeti? Kuidas suurendada rahva loomulikku juurdekasvu, pikendada eluiga ja suurendada sündivust? Kuidas tagada kõigile Eestis sündinud lastele nende võimete tipule vastavat haridust ja haridusele vastavat tööd ning töö keerukusele ja pingele vastavat palka ja puhkevõimalusi?
+- Kuidas viia lõpule haridusreformi ja kujundada koolitussüsteemi, mis vastaks 21. sajandi infoühiskonna nõuetele?
+- Kuidas tagada jätkuv majanduskasv, pidades seejuures kinni säästliku arengu põhimõtetest? 
+- Kuidas arendada regionaalpoliitikat ja luua kindlat majanduslikku alust maaelu arengule? 
+- Kuidas luua tõhusat ja paindlikku maksusüsteemi, mis ei koonnaks ettevõtjat, mis stimuleeriks säästlikkust, uuenduslikku investeerimist ja oma raha paigutamist sotsiaalsfääri ning samas vastaks inimeste õiglustundele? 
+- Kuidas jõuda efektiivse, ökonoomse, stabiilse ja demokraatliku haldusstruktuuri ja valitsemiskorralduseni? 
+- Kuidas vabaneda riigiaparaadis ja ühiskonnas säilinud sovetlikust tegutsemis-ja mõttelaadipärandist? 
+- Kuidas vähendada liigivõimu võõrandumist rahvast? Kuidas anda rahvale suurem kaal poliitikas, tugevdada omaalgatust ja kohalikku demokraatiat? 
+- Kuidas peatada vaesuse ja tõrjutuse kasvu ning vältida sotsiaalsete lõhede laienemist erinevate rahvakihtide, põlvkondade ja piirkondade vahel? 
+- Kuidas saavutada tegelikkuses seda, et riigi rikkuse kasv suurendaks iga inimese iseseisva toimetuleku võimalusi? 
+- Kuidas luua majanduslikult jõukohast ja iga inimese osalust arvestavat pensionikindlustuse ja peretoetuste süsteemi? 
+- Kuidas luua uusi töökohti ning saavutada, et iga korralikult töötav inimene saaks oma teenitud rahaga toime tulla ja lapsed üles kasvatada? 
+- Kuidas saavutada siinsete mitte-eestlaste lojaalsust ja huvi Eesti vastu? Kuidas integreerida neid Eesti ühiskonda? 
+- Kuidas ühildada Eesti õiguskorda Euroopa Liidu õigussüsteemiga? Kuidas suudab riigivõim seda korda kaitsta? 
+- Kuidas tagada Eesti riigi ja inimeste püsivat julgeolekut ja kindlustunnet iseenda ja oma maa tuleviku suhtes? 
+   
+   Lähemad viis aastat näitavad, kas me suudame neid ülesandeid lahendada. Kas ühinevas Euroopas tunnustatakse meid võrdväärse partnerina, kes austab selle maailmajao kõlbelisi ja demokraatlikke väärtusi ning kultuuritraditsioone? Kas Eesti saab püsiva koha 21. sajandi arenenud riikide hulgas või jääb meie tulevik ebakindlaks ja rahutuks, nagu on olnud eesti rahva senine ajalugu, mis on kulgenud erinevate tsivilisatsioonide piirialal? Mõõdukate tahe ja otsus on kindel: muutused peavad jätkuma, siis saavutab Eesti edu.
+
+MÕÕDUKATE AATED JA EESMÄRGID 
+   Mõõdukate aated on vabadus, õiglus ja solidaarsus ning iga inimese vastutus tänase ja homse päeva ees. Mõõdukate maailmavaade ühendab isikuvabaduse põhimõtted sotsiaalse vastutuse tunnustamisega. 
+   Mõõdukad peavad oma püüdluste ning kavatsuste ühiseks mõõduks inimarengut, selle kvaliteeti. Inimarengu näitajad -eluiga, tervis, haridustase -annavad riigi ja ühiskonna saavutustele poliitilistest värvingutest sõltumatu hinnangu. 
+   Loodus-j a inimressursside piiratus määrab ka Eesti tee -säästliku ja tasakaalustatud arengu tee. Säästlik areng tähendab meie jaoks säästlikku eluhoiakut nii suhtumises looduskeskkonda kui ka inimesse, ühiskonda ja kultuuri. Mõõdukad on veendunud, et tärkav teabeühiskond suudab selle eesmärgi saavutada ning tagab Eesti riigi ja eesti kultuuri püsimajäämise avatud maailma vabas konkurentsis. 
+   Riikluse areng - vabaja demokraatliku, inimvajadustele vastava riigi ülesehitamine -on taasiseseisvunud Eesti jaoks esmaülesanne, mille lahendamine nõuab kogu ühiskonna, kõigi poliitiliste jõudude ühist tahet ja koostööd. Mõõdukate eesmärk on luua ideede ja väärtuste tasakaalustatud ühismõõdustik, mis sellist koostööd Eesti tuleviku nimel võimaldaks. 
+   Mõõdukad soovivad, et igal inimesel oleks võimalik oma elu ja oma riigi saatuse kujundamisest osa võtta. Me tahame olla erakond, mis demokraatia tööriistana aitaks kaasa Eesti ühiskonna liitmisele, erakond, mis looks inimeste ühtekuuluvuse ühise poliitilise meelelaadi alusel ja ühiste eesmärkide nimel.
+   
+
+INIMENE JA ÜHISKOND
+Vaba ja väärikas inimene 
+- Meie ideaal on vabaja väärikas inimene, kes vastutab iseenda, oma lähikondsete ja kaasaegsete ning tulevaste põlvkondade ees. Me mõistame inimese vabadust kui õigust ja võimalust otsustada ja tegutseda oma südametunnistuse kohaselt nii isiklikus kui ka avalikus elus. Me mõistame vastutust kui inimese kõlbelist enesepiirangut ja kohustust kaasinimese ees. 
+- Tunnistades inimese vaba valiku õigust, nõuame, et meie valik oleks kõlbeline: inimese vabadust piirab tema kaaslaste samasugune vabadus. Austades teise inimese vabadust, peame olema sallivad tema tõekspidamiste ja püüdluste vastu. 
+- Tunnistame iga inimese Õigust heaolule, mida ei saavutata vastandades ja vaenutsedes, vaid rahu, solidaarsuse, koostöö, ausa konkurentsi ja ühiskondlike lepetega. 
+- Meile on tähtis inimlik side põlvkondade vahel. Me mõistame perekonda kui ühiskonna alget. Perekond peab pakkuma oma liikmetele turvalisust, vastastikust mõistmist, tunnustust ja toetust, kujundama lastes kõlbelist ja säästlikku eluhoiakut ning demokraatlikku vastutustunnet. 
+- Aluseks sellise ühiskonna rajamisele, kus valitsevad õiglus, ligimesearmastus, vendlus ja rahu, peame humanistlikku moraali. Me oleme avatud nii kristlastele kui ka kõigile teistele, kes usuvad inimkonna humanistlikku perspektiivi. 
+Demokraatlikud põhiväärtused 
+- Me seisame tingimusteta ja vankumatult demokraatia kaitsel.
+- Eeldame sõna-, mõtte-, usu-ja veendumuste vabadust, koosolekute ja demonstratsioonide korraldamise vabadust. 
+- Ajakirjanduse vabadus, teabe kättesaadavus ja selle kasutamise oskus on ühiskondliku vabaduse, vastutuse ja õigluse oluline tingimus. 
+- Toetame kodanikuühiskonna ja osalusdemokraatia arengut, mis annab igaühele võimaluse osaleda ühiskonnaelu kujundamises kõigil otsustustasanditel.
+- Oleme igasuguse diskrimineerimise vastu. Ühiskond peab suutma kaitsta arvamuste paljususe põhimõtet ja arvestama vähemusrühmade õigusi. Tunnistame selliste isikliku ja ühiskonnaelu valdkondade olemasolu, kus vähemust on vaja kaitsta enamuse diktaadi eest.
+- Peame vajalikuks järgida naiste ja meeste võrdsete õiguste põhimõtet kõigil ühiskonnaelu alade!. 
+- Igaühel peavad olema teada tema enda ja kaaskondsete õigused ja igaühele peab olema tagatud võimalus oma õigusi kaitsta. Hästi informeeritud ja oma õiguste eest seisev kodanik on demokraatliku riigikorra alus. 
+- Demokraatia laiendamine ühiskonnas nõuab võimu ja juhtimise detsentraliseerimist, otsustusõiguse ja vastutuse viimist omavalitsuse ning kodaniku tasandile. Kogukonna liikmena peab igal inimesel olema võimalik kohaliku elu kujundamisest osa võtta. 
+- Demokraatlikud erakonnad peavad tugevnema ja muutuma Eesti poliitilise süsteemi aluseks. Suurenema peab erakondade poliitiline vastutus valijate ees. Erakonnad peavad olema ühiskonnajaoks avatud, nende poliitilised dokumendid igale kodanikule kättesaadavad. Igal kodanikul peab olema võimalus liituda talle meelepärase erakonnaga. 
+Ühiskond ja riik 
+- Inimene saab end teostada vaid ühiskonna liikmena, tal on õigus oodata ja võimalus saada ühiskonnalt toetust oma püüdlus tele ja tunnustust oma saavutustele ning tal tuleb täita kohustusi ühiskonna heaolu huvides. 
+- Meie ideaaliks on partnerlusühiskond, mida iseloomustab end võrdselt vabana ja väärikana tundvate, üksteise iseärasusi, huve ja tegevust tunnustavate inimeste ühine püüdlus. Suhtumist inimesse ei tohi määrata tema materiaalne edu, amet ega poliitiline mõju. 
+- Me soovime näha Eestis toimivana sotsiaalriiki -ühiskondlikku lepet, mis peab tagama omandi-ja eneseteostusõiguse, turvalisuse, sotsiaalse kaitse ja soodsa elukeskkonna nii praegusele elanikkonnale kui ka järgmistele põlvkondadele. Meile pole vastuvõetav käsitlus riigist kui üksnes kodaniku vabaduse piirajast. Meie eesmärk on saavutada ühiskonna selline riiklik korraldus, mis vastab inimeste loomulikule õiglustundele. 
+- Riik peab seisma üldise hüve teenistuses, täites ülesandeid või osaledes ülesannete täitmisel, milleks erasektor ei ole võimeline või piisavalt tõhus. 
+- Me käsitame Eestit kui demokraatlikku rahvusriiki -riiki, mis kannab edasi eestlaste ajaloo, kultuurija keelega määratud rahvuslikku identiteeti, eristamata seejuures oma kodanike õigusi ja vabadusi nende rahvusliku päritolu järgi. 
+- Eesti peab jääma ühtseks riigiks, kus puuduvad territoriaalautonoomiad ja eriõigustega piirkonnad. 
+- Me seisame selle eest, et Eesti jääks parlamentaarseks vabariigiks, kus riigi üldine poliitiline kurss ja valitsuse koosseis sõltuvad Riigikogu valimise tulemusest. Peame demokraatliku riigi oluliseks tunnuseks seadusandliku, täidesaatva ja kohtuvõimu lahusust. 
+- Me ei poolda põhiseaduse kergekäelist muutmist, kuid peame vajalikuks üle vaadata need põhiseaduse sätted, mis tegelikus elus osutuvad demokraatia ja õigusriigi arengule ebasoodsaks. 
+- Pooldame valimissüsteemi, mille puhul erakonna esindatus Riigikogus on võrdeline erakonnale antud häälte arvuga, kuid leiame, et proportsionaalne valimissüsteem vajab edasist täiustamist selle nimel, et suurendada rahva osalemisvõimalusi võimu teostamisel. Valimissüsteem peab olema valijale arusaadav ja soodustama valitavaja valija vastutuse suurenemist. 
+- Oleme seisukohal, et parlament ei ole ainult seadusandlik kogu, vaid samavõrd ka rahva valitud esindus. Parlamendiliige on rahva esindaja, kelle tegevus peab olema avalik, ja info tema tegevuse kohta peab olema kättesaadav kõigile valijatele. 
+- Peame vajalikuks Eesti õigussüsteemi täiustamist ja lähendamist Euroopa Liidu õigussüsteemile ning õigusriigile omaste institutsioonide ja tunnuste Väljaarendamist. 
+- Me hindame kõrgelt kodanike teenistuses olevat asjatundlikku, kõlbelist ja seaduskuulekat ametnikku. Avalik teenistus peab olema kvaliteetne ning ametnike tegevus inimesele teada, kontrollitav ja mõistetav. Avaliku teenistuse kõrge kvaliteedi saavutamiseks tuleb riigi-ja omavalitsusametnikke koolitada, nende kutsesobivust korrapäraselt hinnata ja täita ametikohad võistluse korras. 
+- Mõistame hukka korruptsiooni ja arvame, et korruptsioonivastane võitlus peab olema ühiskonna ja riigi pideva tähelepanu all kui kõlbelise kasvatuse ja õiguskorrast kinnipidamise abinõu. 
+- Keskvalitsusel ja kohalikel omavalitsustel tuleb jätkata oma vahelise ülesannete jaotamise korrastamist, tuues inimeste igapäevaeluga seonduvate probleemide lahendamise neile lähemale. Me näeme omavalitsustes eeskätt demokraatlikku rahvaesindust, mis annab igale inimesele võimaluse võtta oma kodukohas osa poliitika kujundamisest. 
+Kohalik omavalitsus 
+- Kohalik võim peab olema inimesele nii lähedal, kui on vajalik inimese Igapäevaelu korraldamiseks, teabeks ja osaluseks ühiskonna demokraatlikus juhtimises. 
+- Omavalitsus peab lahendama kõiki avaliku sektori ülesandeid, mille täitmine on talle jõukohane ja majanduslikult otstarbekas. Suurenema peab omavalitsuste vastutus elanike heaolu, sealhulgas tööhõive eest. 
+- Et täita oma funktsioone kohaliku elu edendamisel ning inimeste sotsiaalsel kaitsel, peavad omavalitsused saama piisava rahalise katte. 
+- Omavalitsuste majanduslike võimaluste erinevuse tõttu on vajalik riigi tulude ümberjaotamine. Riigi ülesanne on määrata seadusega, millistele nõuetele ja tingimustele omavalitsus peab vastama, ja ergutada majanduslike vahenditega omavalitsuste koostööd ning ühinemist või jagunemist, arvestades nii traditsioone, demokraatia arengu vajadusi kui ka majanduslikku otstarbekust. 
+- Pooldame kohalike omavalitsusasutuste poolt teostatavate kommunaalteenuste kiiret üleandmist erasektorile ning peame vajalikuks tugevdada ainult sellist munitsipaalettevõtlust, mis täidab avalikule sektorile pandud ülesandeid. 
+Reformipoliitika 
+- Me näeme Eesti ühiskonna arengut kõikehõlmava ja pideva innovaatilise reformiprotsessina. 
+- Meie lähem eesmärk on omandi-ja majandussuhteid ümberkujundavad reformid lõpule viia ja täielikult üle minna tsiviilseadustega reguleeritavatele omandi-ja turusuhetele. 
+- Reformidega kaasnenud sotsiaalsed muutused ja vastuolud vajavad ühiskonnalt ja riigilt veel pikaajalist tähelepanu ja leevendamist ühiskondlike hoiakute kujundamise, seadusandliku reguleerimise, kohanemistoetuste, eluasemelaenude ja muude sotsiaalpoliitiliste abinõude kaudu. 
+- Eesti arengu otsustab reformide kolmas laine -eduka tsiviilühiskonna institutsioonide ülesehitamine. N eed hõlmavad eeskätt kvaliteetset ettevõttejuhtimist, haridust, keskkonnakaitset, tervishoidu, pensionisüsteemi, pangandust, väärtpaberiturgu ja õigussüsteemi. Kolmanda laine reformide ühine tunnussõna on kvaliteet. 
+MAJANDUS 
+Omand 
+- Toetame omandi puutumatuse põhimõtet. Omand on inimese materiaalne ja vaimne side keskkonnaga -omandist algavad kodu ja isamaa. Igaühel on õigus oma ausa töö viljale. Nii materiaalse kui intellektuaalse omandi kaitse on riigi tähtsaimaid ülesandeid. 
+- Me käsitame Eestis läbiviidavat omandireformi kui möödapääsmatut pingutust tagasipöördumiseks oma juurte ja demokraatliku ühiskonna kõlbeliste põhiväärtuste juurde. 
+- Omand seob inimest ühiskonnaga. Omandiga kaasnevad heaperemeheliku käitumise kohustus ja vastutus kaasinimeste ees on seda suuremad, mida suurem on omand ja mida olulisem üldsusele on omandi objekt. 
+- Igaühel peab olema võimalus saada omanikuks. Toetame laia omanikeringi teket juba omandireformi ajal. Selle saavutamise olulised eeldused on avalik ja kontrollitav kinnisvara-ja väärtpaberiturg ning väikeomanike õiguste kaitse. 
+Töö ja tööturg 
+- Toimetuleku-ja heaoluallikatest seame esikohale töö. Nii vaimne kui ka füüsiline töövõime on inimese esmane ja võõrandamatu omand. Töö-ja palgasuhetel on valdava osa ühiskonnaliikmete elus määrav tähtsus. Eestis tuleb taasväärtustada ausaja tulemusrikka töö kõlbeline tähendus ja sotsiaalne tunnustatus ning see peab kajastuma palgasuhetes. 
+- Tööjõuturul väärtustatud tööjõud on vahend, mis võimaldab muuta hariduse, teadmised, oskused ja töökuse heaolu allikaks. Töötaja peab saama hea töö eest head palka . 
+- Toetame sotsiaalsel partnerlusel põhinevaid suhteid tööturul ning tööandjate ja töövõtjate organiseerumist. Tööturu osapooled kannavad riigiga võrdsel määral vastutust üldise toimetuleku eest. 
+- Tööturu osaliste õigusi ja kohustusi on vaja seadusega reguleerida. Olulised küsimused tuleb lahendada kahe-ja kolmepoolsete (tööandjate, töövõtjate ja valitsuse) läbirääkimistega. Tööturu kokkulepped ja neist kinnipidamine on stabiilse kodanikuühiskonna selgroog, nende puudumine võimendab vastuolusid ja põhjustab ühiskonna lõhenemise. 
+- Peame oluliseks, et töö avalikus sektoris oleks väärtustatud ning avaliku teenistuse, kultuuri-, haridus-ning sotsiaalsfääri töötajatele oleks tagatud nende haridustasemele ja kvalifikatsioonile vastav palk. 
+- Peame õigeks luua riigi, tööandjate ja töövõtjate osalusel töötusekindlustus, mis võimaldab seniselt anonüümselt ja ebatõhusalt töötu abiraha süsteemilt üle minna avalikule, tööturu osapooli rahuldavale ning toimetulekut kindlustavale süsteemile. 
+- Peame vajalikuks pidevat avalikku palgapoliitikaalast diskussiooni. Teabeühiskond ei saa palgapoliitikas seada eeskujuks seniseid tööstusühiskonna malle, vaid nõuab uusi, haridust, uuenduslikkust ja tulemuslikkust väärtustavaid töö-ja palgasuhteid. 
+- Tööhõivepoliitika peab vastama kiire majandusarengu vajadustele. Kvaliteetne, haritud ja nüüdisaegse oskusteabega tööjõud on majandusarengu vältimatu eeldus. Innovaatilises teabeühiskonnas tuleb töösuhted reguleerida paindlikult, lähtudes uute töövormide mitmekesisusest. 
+- Tööhõivepoliitika peab arvestama nii praegusi kui ka lähituleviku probleeme. Sotsiaalse tõrjutuse vältimiseks peame vajalikuks pöörata suurt tähelepanu pensionieelikute, puuetega inimeste ja pikaajaliselt töötuksjäänute, eriti aga noorte tööhõive tagamisele. Iga noor peab leidma Eesti tööturul endale oma võimetele vastava ja neid arendava koha. 
+- Peame vajalikuks, et riik aitaks säilitada tööhõivet ja luua töökohti monofunktsionaalsetes asulates ja suure tööpuudusega piirkondades. Selleks on vajalik riigi ja omavalitsuse koostöö. 
+- Toetame Euroopa Liidu töösuhteid, -keskkonda ja -ohutust reguleerivate normide rakendamist Eestis ning ettevõtete juhtimisel osalusdemokraatia põhimõtete omaksvõtmist. See tagab töötajatele sõnaõiguse ja tööandjatele suurema kindluse. 
+Majanduskeskkond ja ettevõtlus 
+- Eesti siseturg on väike ja selle sulgemine loomulikule turukonkurentsile vaesestab ning moonutab majanduskeskkonda. Eesti majandus peab olema ettevõtluse jaoks avatud. 
+- Riigi peamised majanduspoliitilised ülesanded on demonopoliseeritud ja stabiilse ettevõtluskeskkonna loomine ja tagamine, infrastruktuuri arendamine, riigivara hoidmine ning selle säästlik ja kasulik majandamine, avaliku ja sõltumatu äriregistri usaldusväärne pidamine. 
+- Majanduspoliitika peab soodustama majanduslikku loovus!, paindlikkust ja uuenduslikkust ui teabeühiskonna majandusedu peamisi eeldusi. 
+- Majanduspoliitika peab toetama selliseid ettevõtteid ja majandusharusid, mis rakendavad kõige kasulikumalt ja säästvamalt Eesti ressursipotentsiaali ning suudavad kiiresti ümber orienteeruda uutele võimalustele ja turgudele.
+- Eesti majandusedu võtmesõnad on teadusmahukas tehnoloogia, turism ja transiit. Riigi jõupingutused tuleb suunata sellele, et maksimaalselt ära kasutada Eesti kui mitmekesiste ja inimtegevusest vähemõjutatud loodusmaastike maa, Eesti kui soodsa asendiga transiitmaa ning Eesti kui traditsiooniliselt haridus-, uuendus-ja teaduslembelise maa võimalused. Tähtsaim on Eesti tuleviku jaoks infotehnoloogia arendamine . 
+- Ettevõtluskeskkonna huvides peab maksusüsteem olema võimalikult stabiilne -me ei poolda kiireid ja läbimõtlematuid muudatusi. Maksustamisega või sellest loobumisega ei tohi muuta halvemaks Eesti ettevõtjate konkurentsitingimusi, eriti majandusedu võtmealadel. 
+- Väärtpaberipoliitika peab tagama väärtpaberituru ja turuinstitutsioonide väljaarendamise ja turvalisuse ning kontrolli väärtpabereid emiteerivate majandussubjektide üle. 
+- Igaühel peab olema võimalus tegutseda ettevõtjana. Riik võib toetada väikeettevõtlust kui majandusliku loovuse, paindlikkuse ja uuendusmõtte kandjat stardiraha, arendus-ja tehnoloogialaenude abil. 
+- Tuleb tagada vaba konkurents teenuste ja toodete pakkumisel ning loodusressursside kasutamisel. Ettevõtluskeskkonda peab reguleerima nii, et oleks välistatud ja ennetatud kartellikokkulepped ja monopoolne hinnakujundus. 
+- Tootjad ja turustajad peavad austama tarbija õigusi: toetame tarbijakaitseorganisatsioonide teket ja tõhusat tegevust. 
+- Õigussüsteem peab soodustama majandusdemokraatia arengut ning ärieetika ja maksudistsipliini kindlat juurdumist Eesti ette võtluses. 
+- Peame vajalikuks välja töötada Maailmakaubandusorganisatsiooni ja Euroopa Liidu nõudeid arvestav tollitariifide süsteem. Selle rakendamist Eesti ühinemiseni Euroopa Liiduga peame vajalikuks erandliku kaitseabinõuna kõlvatu konkurentsi ja turusituatsiooni järskude muutuste vastu. 
+Raharinglus 
+- Toetame sellise rahapoliitika jätkamist, mis tagab Eesti rahasüsteemi stabiilsuse ja majandusreformide edukuse. 
+- Tunnustame Eesti Panga kui keskpanga sõltumatust ja tema põhiseaduslikku rolli stabiilse ja usaldusväärse rahapoliitika kujundamisel. Eesti Pank peab keskenduma oma põhitegevusele ning loobuma igasugusest kommertstegevusest. Peame vajalikuks suurendada seaduse alusel toimiva kindla aruandlussüsteemi vahendusel Eesti Panga tegevuse avatust.
+   Toetame legaalse kapitali kasvu ja arengut Eestis. Seetõttu pooldame Eesti Panga tõhusat kontrolli kommertspankade tegevuse üle ning rangeid kapitaliadekvaatsuse ja riskihajutamise nõudeid.
+Eelarve
+- Peame oluliseks Euroopa rahaliidu nõuetele vastava tasakaalustatud eelarvepoliitika jätkamist.
+- Aastaeelarve peab kajastama võetavate välislaenude mahtu ning eelarve regulatiivses osas peab olema sätestatud välislaenude kasutamise eesmärk ja kord. Seadusega peab olema sätestatud ka omavalitsuste laenamise maht ja laenude kasutamise kord.
+- Riigieelarve ja kohalikud eelarved on vahendid pikaajalise arengu juhtimiseks, seetõttu peavad nad sisaldama vastavatest arengukavadest tulenevaid rahalisi kohustusi. 
+- Olulisimad poliitilised programmid nõuavad pikaajalist rahastamist. Seetõttu tuleb poliitiliste kokkulepetega hoolt kanda selle eest, et kord juba Riigikogus otsustatud programme kindlasti ka järgnevates eelarvetes rahastataks. 
+- Peame vajalikuks, et nagu riigieelarve, nii ka omavalitsuste eelarvete koostamise, täitmise ja kontrollimise kord oleks seadusega sätestatud. 
+Maksupoliitika ja riigi tulud 
+- Ettevõtluskeskkonna huvides peab maksusüsteem olema võimalikult stabiilne. Vajalikud muudatused tuleb planeerida pikema aja peale ette ning nende rakendamine põhjalikult ette valmistada. Maksusüsteem on terviklik, mistõttu ühe maksuliigi kaotamine või lisamine ilma tasakaalustavaid mehhanisme rakendamata ei toeta, vaid Eesti Panga tegevuse avatust. pigem kahjustab üldisi huve. Toetame maksusüsteemi arengut suunas, kus maksude maksmine oleks korraldatud selliselt, et nad aitaksid kaasa säästlikule arengule ning sotsiaalse ja regionaalse tasakaalu kujunemisele. 
+- Oleme seisukohal, et Eesti maksusüsteem vajab täiustamist ja muutmist. Vajalik on maksusüsteemi suurem paindlikkus ja diferentseeritus, lähtuda tuleb regionaal-, sotsiaal- ja majanduspoliitilistest vajadustest:
++ maksudest laekuvate summade jaotamine riigieelarve ja kohalike eelarvete vahel peaks olema piirkonniti erinev,
++ tulude hankimiseks tehtavad kulutused (näiteks töölkäimise, töövahendite hankimise ja koolituse kulud) tuleb maha arvata ka üksikisiku maksustatavatest tuludest,
++ üksikisiku tulude maksuvaba alammäär peab tõusma ning sõltuma perekonnas olevate laste arvust.
+- Riigi tuludesse maksudest saadav osa ei tohiks ületada 2/5 rahvuslikust kogutoodangust. Soovime saavutada olukorda, kus kaudsetest ja otsestest maksudest saadavad tulud oleksid ligikaudu võrdsed. 
+- Vaesemad pered ei peaks maksudeks maksma suuremat osa oma sissetulekutest kui rikkamad. Seepärast oleme vastu käibemaksu tõstmise katsetele, mille tagajärjel suureneks kaudsete maksude osatähtsus ja seega ka vaesemate perede suhteline maksukoormus. 
+- Sotsiaalmaksuga maksustamise põhimõtted peavad lähtuma pensioni-ja ravikindlustuspoliitika üldpõhimõtetest. Oleme seisukohal, et tööandja ja töövõtja peavad mõlemad osalema kohustuslikus sotsiaalkindlustuses. 
+- Kui tasakaalustatud eelarve ja riigi tulude huvides osutub vajalikuks leida täiendavaid tuluallikaid, siis võiks täiendavalt maksustada uute autode, alkoholi, tubaka, tulirelvade ja laskemoona tarbimist ning eksklusiivtarbimist. 
+- Kaugemas tulevikus peame võimalikuks üksikisiku tulumaksu progresseerumist kõige suuremate sissetulekute puhul kuni 35%ni, kusjuures tulumaksu progresseeruvus tuleks seostada sotsiaalmaksule ülempiiri kehtestamisega. Selline seos stimuleerib erapensionikindlustuse teket, vähendab sotsiaalset kihistumist ja annab tööandjate palgapoliitikas vabamad käed. 
+- Oleme seisukohal, et asjaõigusest lähtudes tuleb maamaks ümber korraldada kinnisvaramaksuks, mille korral maksustatava vara väärtuse määrab maa koos selle oluliste osadega. See võimaldaks vähendada maapiirkondade suhtelist maksukoormust. 
+- Maa-ja loodusvarade kasutuselevõtmine tuleb riiklikult maksustada ja korraldada nende maksude paindlik administreerimine. 
+- Riik peab looma tõhusa ja hästi toimiva riigivara haldamise süsteemi ja selle abil suurendama riigivara kasutamisest saadavaid eelarve tulusid. Tuleb tagada riigi vara kasutamisest ja rahvusvaheliste navigatsiooniteenuste osutamisest laekuvate tulude vältimatuilma ametkondliku "omaregulatsioonita" -laekumine riigieelarvesse. 
+- Valdavalt riigile kuuluvate äriühingute makstavad dividendid tuleb määrata iga ettevõtte puhul eraldi, lähtudes ettevõtte kapitalivajaduse ning riigi kui omaniku huvide tasakaalust. 
+Infrastruktuur 
+- Tuleviku Eesti peab olema hästi arendatud side-ning energiavõrguga maa. 
+- Infrastruktuuri arendamine on üks riigi tähtsaimaid majandusja regionaalpoliitika ülesandeid. Soovime jõuda selleni, et kõik Eestis ja Eestiga toimivad transpordi-ja sideühendused oleksid hõlpsad ning mugavad. 
+- Infrastruktuuri rajamisel ja majandamisel on oluline riigi osalus ettevõtete omanikuna, aga veelgi suuremal määral seadusandluse ja oma institutsioonide kaudu majandustegevuse regulaatorina. 
+- Transiidipoliitika peab hõlmama sadamate ja raudtee moderniseerimist ning tolliameti töö tõhustamist. 
+- Peame vajalikuks oluliselt arendada raudtee logistikat ja infrastruktuuri. 
+- Rahvusvaheliste magistraalteede rajamine on hädavajalik nii Eesti transiidimajanduse kui ka regionaalse arengu huvides. 
+- Peame vajalikuks suunata telefoni-ja postiside arengut selliselt, et need tagaksid kvaliteetse, moodsa ning hinnalt kättesaadava teenuse kõikjal. Tuleb soodustada sisemaise arvutisidevõrgu loomist ja kättesaadavust. Arvutiside peab muutuma üldkasutatavaks vahendiks kogu ühiskonnas, ta peab saama ka avalike diskussioonide vahendajaks.  
+- Riigiasutuste töö hõlbustamiseks on vaja luua riiklike registrite ja andmebaaside võrk. Registrid peavad hõlmama rahvastiku, sotsiaalse olukorra, tervishoiu, migratsiooni jms. andmebaase. Seal juures on tähtis tagada isikuandmete kaitse.
+- Eesti peab olema võimalikult paljude kanalite kaudu lülitatud  ülemaailmsesse telekommunikatsiooni-ja infovõrku, mis on teabe ühiskonna loomise hädavajalik eeldus.
+Energiapoliitika
+- Energiapoliitika peab lähtuma rahvusliku julgeoleku, keskkonnakaitse ja regionaalse arengu nõuetest. Sel kaalutlusel peame otstarbekaks energiaettevõtetes riigi sellise osaluse säilitamist, mis lisaks seadusandlusest tulenevatele võimalustele tagab riigile õiguse mõjutada energeetika arengut. Energeetikaettevõtete aktsiad peavad olema börsil vabalt kaubeldavad.
+- Energia tootmine on vaja territoriaalselt hajutada ja tuleb kasutusele võtta võimalikult palju altematiivseid energiaallikaid neist ühtki eelarvamuslikult kõrvale heitmata. Rannikualadel tuleb piirkondliku arengu huvides soodustada tuuleenergia laialdasemat kasutuselevõttu.
+- Energiatarbimise oodatav kasv tuleb katta peamiselt kadude vähendamise abil. Tuleb vältida ühekülgsete, kitsalt majanduslike arvestuste domineerimist energiatootmise planeerimisel.
+- Pooldame põlevkivi tootmise mõõdukat piiramist, arvestades, et lähema paarikümne aasta jooksul jääb tehnoloogiliselt uuendatud põlevkivienergeetika siiski peamiseks Eesti elektrienergiaallikaks. Põlevkivi kaevandamise ja elektritootmise tehnoloogiline uuendamine on vältimatu, sest tuleb täita Läänemere rahvusvahelisi keskkonnakohustusi.
+Põllumajandus
+- Eesti on oma traditsioonide, loodusolude ja hõreda asustuse tõttu perspektiivne põllumajandusmaa. Põllumajandus peab vaba konkurentsi olukorras tootma põhilisi põllumajandussaadusi nii Eesti elanikele kui ka ekspordiks.
+- Põllumajandust tuleb uuendada. Põllumajanduse konkurentsivõime tugevdamiseks ja Euroopa Liidu ühtse põllumajanduspoliitikaga kooskõlla viimiseks peame hädavajalikuks kaasaegse tehnoloogia, sealhulgas biotehnoloogia kasutuselevõtmist ja optimaalse suurusega majandusüksuste kujunemist.
+- Talupidamine kui eestlaste traditsiooniline elamisviis on vaja taastada uuel kujul: kõrvuti kõrgtehnoloogiliste tootmistaludega peavad maaelus koha leidma ka turismi- ja muid teenuseid pakkuvad väiketalud, metsandus-, jahindus- ja kalandustalud ning harrastustalud, mille omanike põhiline tuluallikas on põllumajandusväline.
+- Eesti põllumajandus vajab riigilt tähelepanu ja toetust. Maaelu ja põllumajanduse arenguks on vaja pikaajalist arengukava, mille alusel on võimalik luua paindlik põllumajanduse krediidi- ja toetuspoliitika.
+- Riigieelarve vahendite toetusel tuleb rajada põllumajandusturu infosüsteem, teha turu-uuringuid, rajada liisingu- ja kindlustussüsteem, viia põllumajandussaaduste ja -toodete kvaliteedinormid vastavusse Euroopa Liidu nõuetega ning sertifitseerida töötleva tööstuse ettevõtted.
+- Põllumajandus peab suutma rahuldada eelkõige siseturu vajadused kvaliteetsete ja konservandivabade toiduainete järele. Tuleb soodustada maitsva toidu tootmise traditsiooni jätkumist ning vältida toiduainete maitseomaduste halvenemist suurtootmise ja –kaubanduse huvide survel.
+- Uusi võimalusi kvaliteetsete toiduainete tootmisel nii siseturu vajadusteks kui ka ekspordiks pakub mahepõllumajandus.
+- Toetame riikliku toetussüsteemi loomist, kaitsmaks hävimisohus olevate põllumajandusloomade (eesti hobusetõud ja maatõugu veis) ning -kultuuride genofondi.
+- Põllumajandusel on oluline osa kultuurmaastiku säilitamisel ja looduskeskkonna mandumise vältimisel. Riiklike programmidega tuleb toetada kasutusest välja jääva väheviljaka ja rändlindude toitumisaladele jääva põllumaa rekultiveerimist rohu-ja metsamaaks. Rannapiirkondades ja alvaritel on otstarbekas soodustada lamba-, hobuse-ja lihaveisekasvatust.
+REGIONAALPOLIITIKA JA MAAELU 
+- Reformia ja kiired muutused on pealinna ning muude keskuste ja ääremaade vahel põhjustanud üha suureneva majandusliku ja sotsiaalse ebavõrdsuse, mis on muutunud tõsiseks ohuks Eesti tulevikule.
+- Regionaalpoliitika peab aitama Eesti ühtsust taastada ja seisma vastu ebasoovitavale ja ühiskonda lõhestavale arengule. Regionaalpoliitika eesmärk on ohjeldada äärepiirkondadest keskustesse rändamist, elanikkonna hõrenemist ja vaesumist ning sellega kaasnevat ohtu riigi julgeolekule, tasakaalustada majanduse piirkondlikku arengut ning valmistada ette Eesti osalemist Euroopa Liidu regionaalpoliitilistes programmides.
+- Regionaalpoliitika peab keskenduma eeskätt riigi erinevate piirkondade arengueelduste loomisele ja sotsiaalse ning majandusliku arengu tasakaalustamisele, ääremaa inimeste haridustaseme ja uuendusvõime tõstmisele ning elukeskkonna parandamisele.
+- Tähelepanu nõudvad probleemalad on nii ülikasvuga Tallinn, majanduse ümberkujundamist vajav Kirde-Eesti tööstusrajoon kui ka arengus mahajäänud maapiirkonnad.
+- Regionaalpoliitika tuleb eeskätt suunata piirkondade edasiarenguvõime tugevdamisele, selleks on vaja koolitust, nõustamist ja arendusprogrammide loomist ning väikeettevõtluse toetamist stardiraha, arendus-ja tehnoloogialaenude ning eksporditoetustega.
+- Riigipoolseid otseseid investeeringuid on vaja
++ kohalike ettevõtete rekonstrueerimiseks juhul, kui nende seiskumine põhjustab massilist tööpuudust,
++ töökohtade loomiseks piirialadel, et tagada riigi julgeolek,
++ saarte ja muude raskesti ligipääsetavate piirkondade elanike transpordikulude korvamiseks;
++ transpordivõrgu üleriigiliseks rajamiseks,
++ sotsiaalse infrastruktuuri üleriigiliseks rajamiseks,
++ uuendusliku keskkonna kujundamiseks kõrgkoolide ja erialaõppeasutuste detsentraliseerimise kaudu,
++ teadusparkide, tehno-ja ettevõtluskeskuste ning tehnosiirde võrgustiku loomiseks,
++ arendustegevuseks vajalikele inimestele riigipoolse lisapalga maksmiseks.
+- Regionaalse arengu huve teenib riigiasutuste ning haridus-ja kultuurikeskuste hajutamine pealinnast ja suurematest linnadest väiksematesse keskustesse.
+- Regionaalpoliitika ülesanne on aidata lahendada põllumajanduse mahu ja tööhõive vähenemisega kaasnenud probleeme, soodustades uute tegevusalade viljelemist ja uute töökohtade loomist maapiirkondades.
+- Tuleb viia lõpule maamajanduse restruktureerimine, arvestades talunduse kui ökonoomse majandamisviisi prioriteetsuse säilitamise vajadust.
+- Talunduse toetuseks tuleb kasutada suurtaludele taludevahelistele ühisettevõtetele, väiketalunditele ja infrastruktuurile loodud toetusprojekte.
+- Tuleb toetada selliste ühistegevuslike talundus-, töötlus-, turustus- ja muude organisatsioonide loomist, mille tegevuse tulemiks on maaettevõtluse areng.
+- Riiklikult tuleb soodustada nõukogude ajal tühjenenud ja suletud Eesti rannikualade ja väikesaarte taasasustamist arendamaks kalandust, sadama-ja navigatsiooniteenindust, mereturismi ja puhkemajandust.
+- Maareformi kiiret lõpuleviimist tuleb käsitada kui tähtsat maaelu korraldavat ülesannet, mille lahendamine võimaldab maa-ja kinnisvaraturgu korrastades rajada kindla aluse põllumajanduse ning metsa-, turismi-ja jahimajanduse arengule. 
+SÄÄSTLIK ARENG 
+Säästliku arengu põhieeldused 
+- Säästliku arengu all mõistame tsivilisatsiooni tasakaalulist arengut, mille korral ei ela praegused põlvkonnad tulevaste põlvkondade eluvõimaluste arvel j a ühiskond võib oma vajadusi inimväärselt rahuldades eksisteerida praktiliselt piiramatu aja. Säästlikul arengul ei ole kõlbelist alternatiivi.
+- Peame õigeks käsitada säästlikku arengut mitte ainult inimese ja looduse vahekorra seisukohast, vaid laiemalt, mõistes selle all inimese ja kogu tema elu-ning kultuurikeskkonna, sealhulgas rahvuskultuuri arengu kestvust, jätkusuutlikkust ja säästvust.
+- Säästlik areng on kõikehõlmav protsess, mille aluseks on seda 'väärtustav eluhoiak ja elulaad. See eluhoiak ei teki iseenesest, vald kasvatamise ja õpetamisega nagu muudki kõlblusnormid. 
+- Säästlikku arengut puudutavad otsused peavad tuginema pikaajalistele, konsensuslikele arengukavadele, mis õetakse vastu parlamendis, eriti oluliste küsimuste korral ka rahvaküsitlusel heaks kiidetuna. 
+Säästlikkus ja infoühiskond 
+- Säästlik areng kui vääramatu nõue tuleneb teadmisest, et looduse ja inimühiskonna ainelised varud ja kasvuvõimalused on piiratud. Kuid me usume, et inimkonna vaimsel kasvul teel infoühiskonda ei ole piire. 
+- Infoühiskond on olemuselt säästlik ühiskond. Infoühiskonna võimalused ja iseärasused on soodus eeldus regionaalpoliitiliste ja säästliku arengu eesmärkide saavutamiseks - vähese energia- ja materjalimahukusega tootmise ning asustuse territoriaalseks hajutamiseks.
+- Infoühiskonnas saavad keskkonnaküsimused majandusotsustustes üha olulisemaks: vaid need piirkonnad, millel On hea maine, turvaline, looduslikult, kultuuriliselt ja sotsiaalselt rikas keskkond, võivad eeldada majanduslikku edenemist.
+- Tulevikumajanduse tulemuslikkus sõltub üha enam tasakaalustatud arengust, kus on ühtviisi oluline nii inimese vabadus, demokraatlik otsustamisprotsess, kultuur, tehnoloogia uuenemine kui ka looduskeskkonna säilitamine.
+Keskkonnakaitse 
+- Inimese üks põhiõigus on elada puhtas, tervislikus keskkonnas. 
+- Keskkonnakaitse eesmärk on loodusvarade kasutamisel ning tervisliku keskkonna loomisel maksimaalselt säästa varusid. Arengukavade kaudu on võimalik tagada puhast keskkonda; kui kõrvaldame saastamise põhjused, siis ei pea me võitlema tagajärgedega.
+- Tuleb jätkata eelarveraha ja erasektori ning rahvusvahelise abi koordineeritud investeerimist puhastusseadmete ehitamisse ja minevikust pärit saaste likvideerimisse.
+- On vaja luua tõhus kontroll keskkonna toksiliste mõjude ja toiduainete kvaliteedi üle, sealhulgas kvaliteedikontroll riigipiiril, ning laialdasemalt kasutada mahe-põllumajanduse saadusi, eriti lastele mõeldud toiduainetes.
+- Keskkonnateadvus algab kodust ja koolist. Oluline on tänapäevase ökoloogilise hariduse andmine alates põhikoolist, seostades seda kodukoha ainestikuga. Vaja on oluliselt tõsta ka täiskasvanute informeeritust ökoloogia sõlmküsimustest. 
+TOIMETULEK 
+Sotsiaalpoliitika alused 
+- Mõõdukate sotsiaalpoliitika on suunatud inimarengule. Meie eesmärk on soodustada iga inimese iseseisva toimetuleku võimet ja täisverelist osalemist ühiskonnaelus. Ühiskond peab olema korraldatud selliselt, et suurem osa inimestest oleksid võimelised iseseisvalt toime tulema.
+- Riik ei saa võtta inimeselt vastutust toimetuleku eest, kuid ta peab aitama tal seda kanda. Riigi ülesanne on sotsiaalpoliitika kaudu tagada rahvusliku inimvaru kasv ja kvaliteet ning inimarengu üldine paranemine.
+- On võimalik ja vajalik suurendada iseseisva toimetuleku võimalusi kaasaegse hariduse ja pideva täiendõppe abil, mis aitavad inimesel kohaneda kiirelt muutuva eluga ja tal endal seda muuta.
+- Riigi ettevõtlus-, tööturu-, palga- ja maksupoliitika peab kaasa aitama toimetuleku kindlustamisele.
+- Sotsiaalkindlustussüsteem peab tagama inimesele kindlustunde nende olukordade puhuks, kus iseseisev toimetulek on raskendatud.
+- Seadustega on vaja kogu riigis tagada ühesugune sotsiaalkaitse tase, mis peab lähenema euroopalikule tasemele vastavalt Eesti majanduse arengule.
+- Omavalitsustel peab olema piisavalt raha, et nad saaksid järgida seadusega ettenähtud sotsiaalkindlustuse standardit.
+- Toetame nii riigi kui ka kohalikul tasandil aktiivset sotsiaalpoliitikat, mis on suunatud kriiside ennetamisele ja abivajajate õige aegsele valjaselgitamisele. Ühiskonna eriline tähelepanu peab kuuluma
++ noortele, kes ei ole ühiskonnas veel saavutanud võimetekohast kohta,
++ väikese sissetulekuga, eeskätt lasterohketele peredele,
++ pikemat aega töötutele,
++ puuetega inimestele,
++ vanuritele.
+Pered
+- Meie perepoliitika eesmärk on soodustada püsivate lasterikaste täisperede arvu kasvu ja aidata kaasa kõigi perede iseseisvale toimetulekule. Peame vajalikuks senisest suuremat tähelepanu pereeluks Ja lastekasvatamiseks sobiva keskkonna loomisele.
+- Oleme seisukohal, et Eesti demograafilise olukorra parandamiseks on vaja ellu rakendada pikaajaline riiklik programm, mille tulemusel väärtustataks laste kasvatamist perekonnas, tagataks lastega perede sotsiaalne ja majanduslik toimetulek tasemel, mis võimaldab kõigi laste kasvatamist ja koolitamist vastavalt nende võimetele ning loodaks toimivad sotsiaalsed garantiid ja stiimulid, mis tagaksid noorte emade konkurentsivõime tööturul.
+- Käsitleme lastetoetust kui toetust lapsele - ühiskonna majanduslikku abi oma uuele liikmele.
+- Üksikvanemaga pere vajab ühiskonnalt suuremat tähelepanu ja toetust, et ta suudaks kindlustada oma lastele inimväärse kodu.
+- Peretoetuste süsteem peab olema selline, mis võimaldaks vältida omandatud abituse väljakujunemist ja asotsiaalsuse edasi kandumist lastele.
+- Seadustes tuleb määratleda isa ja ema võrdsed õigused ja kohustused lapse kasvatamisel. Lapsehoolduspuhkusel olles peavad vanemal säilima kõik töökohaga seotud garantiid.
+- Perel peab olema võimalik valida, kas kasvatada last kodus või kasutada laste päevahoiu teenust. Tööandjaid on vaja motiveerida, et väikelaste vanemad saaksid soovi korral töötada kodus või osalise tööajaga.
+- Omavalitsus peab tagama avahooldussüsteemi toimimise peredes olevate vanurite ja puuetega inimeste kodus hooldamiseks.
+- Töötava naise koduse koormuse vähendamiseks on vaja, et kohalik võim soodustaks argielu infrastruktuuri (kauplused, teenindus) modemiseerimist ja koduteenuste kättesaadavust.
+- Laste õigus elada turvaliselt tuleb tagada seadusega ja lastekaitse praktilise korraldusega. Koduhoolitsusest ilma jäänud ja perevägivalla all kannatavate laste jaoks on vaja luua turvakodude, internaatkoolide, kriisi-ja nõustamisteenistuste ning tugiperede süsteem.
+- Maaperedele tuleb luua sihipärane ja toimiv toetussüsteem, mis võimaldaks ületada reformiaja kohanemisraskused.
+Tööhõive 
+- Elanikkonna kindlustamine tööga eeldab hästiarenenud tööturuametite ja tööhõivega tegelevate erastruktuuride koostööd ning laialdast, tööhõivele orienteeritud täiend- ja ümberõppesüsteemi. Töötutele suunatud vahendite kasutamisel tuleb rahalisele abile eelistada tööturuteenuseid, mis aitavad tööotsija ümber õpetada ja tal tööd leida.
+- Töötul on õigus saada majanduslikku abi, mis võimaldab tal toime tulla ja jätkata tööotsinguid. Toetame seaduse alusel tegutseva kohustusliku töötuskindlustuse loomist, milles peavad osalema nii tööandjad kui ka töövõtjad. Soovime selles valdkonnas teha tihedat koostööd ametiühingutega.
+- Arvestades noorte ja naiste töötus e kasvu ning ülikõrge töötusega asulate ja piirkondade olukorda, on aeg tunnistada tööpuudus Eestis tõsiseks riiklikku programmi nõudvaks sotsiaalseks probleemiks. Mõõdukad peavad esmatähtsaks töökohtade juurdekasvu tagavate tööandjate sotsiaalset tunnustamist ning stimuleerimist, võitlust struktuurse ja regionaalse tööpuudusega, noorte töötuse ennetamist ning pikaajaliselt töötute perede sotsiaalset kaitset. Riik ei tohi endale lubada samme, mille tagajärjeks võib olla struktuurse või regionaalse tööpuuduse järsk suurenemine.
+- Eesti riik vajab töö- ja palgapoliitikat, mis põhineks tööandja ja töövõtja ühisel sotsiaalsel vastutusel ning omavahelisel partnerlusel ja tagaks kõigile, kes teevad korralikult tööd, ka korraliku, s.t. perekonna normaalseks toimetulekuks piisava sissetuleku. Mõõdukad peavad vajalikuks vähendada palgatulude regionaalseid, soolisi ja muid diskrimineeriv at laadi erinevusi.
+Tervishoid
+- Me lähtume põhimõttest, et tervist on kergem ja odavam hoida kui haiget ravida. Tervishoid peab aitama inimesel säilitada tema kehalist, vaimset ja emotsionaalset heaolu. Tervisepoliitika osaks peab saama hoolitsuskeskkonnakaitse, tervisliku toitumise ja tervisespordi arendamise eest ning ebatervislike harjumuste vastane selgitustöö, mis peab algama kodust ja koolist. Hoolitsus tervislike eluviiside ja rahvaspordi arengu eest on eelkõige kohaliku omavalitsuse ülesanne.
+- Tervishoiusüsteem peab hõlmama koostoimivat riiklikku-, munitsipaal- ja erameditsiini. Mõõdukad pooldavad tervishoiureformi jätkamist suunas, mille peamiseks sisuks on perearstisüsteemi kui kõigile abivajajatele kättesaadava elukohajärgse arstiabi arendamine kohaliku omavalitsuse ja haigekassa koostööna ning omavalitsuse vastutus pikaravi-ja kodupõetuse kättesaadavuse eest.
+- Ravikindlustussüsteem vajab edasiarendamist. Mõõdukad ei poolda ravikindlustusmaksu laekumist riigikassasse, sest see on ebaotstarbekas ning kindlustuspõhimõtteid eirav. Peame otstarbekaks, et ravikindlustusmaksu kokkuleppelise määra tasuks nii tööandja kui ka töövõtja, see tõstaks patsiendi vastutust ning tagaks ühiskondliku kontrolli ravikindlustusrahade kasutamise üle.
+- Seadusega tuleb tagada patsiendi õigus saada kvalifitseeritud arstiabi ning sätestada, kes ja millisel määral kannab vastutust ebakvaliteetse või valesti määratud ravi korral.
+- Seadusega tuleb sätestada, milline osa tervishoiuteenuste eest tasutakse ravikindlustusmaksuga, milline riigieelarvest ning millise tasub patsient.
+- Peame vajalikuks hakata pidama individuaalse ravikindlustuse arvestust ning rakendama kõrgema sissetulekuga isikute puhul raviteenuste eest otse tasumist (ravikindlustuse krediitkaart), mille puhul kindlustus hüvitab kindlustatule ravikulud esitatud arve põhjal ning võimaldada pikaajalise ja kalli ravi puhul kindlustatule ka krediiti.
+- Suuremat tähelepanu vajavad koolitervishoid ja tervisekasvatus. On vaja suurendada koolide kehalise kasvatuse, tantsu-ja ujumistundide arvu ning kohalikul omavalitsusel tuleb koolisporti toetada.
+- On vaja tagada igale kooliõpilasele kättesaadav täisväärtuslik lõunasöök. Ükski Eesti kooliõpilane ei tohi kannatada alatoitluse all. 
+- Me peame levivat narkootikumitarbimist noorsoo tervisele ähvardavaks ohuks ja selle vastu võitlemist tervisekasvatuse üheks tähtsamaks ülesandeks.
+Hoolekanne
+- Hoolekande esmane ülesanne peab olema inimese toimetulekuvõime taastamine, säilitamine ja arendamine, kuni see on võimalik. 
+- Puuetega inimeste ja vanurite taastusravi ning toetussüsteemi loomine, mis tagaks nende maksimaalse enesega toimetuleku ning täisväärtusliku osalemise ühiskonnaelus, on ülesanne, mida peab täitma riik koostöös omavalitsusega. 
+- Toimetuleku toetamiseks tuleb omavalitsustel rajada sotsiaalkortereid ja toimetulekukeskusi, mis ühendavad pansionaadi, huvikeskuse, nõuandla, osalise toimetulekuabi ja jõukohase töö võimaluse. 
+- Avahoolduse, vanurite ning kehalise puudega inimeste hooldekodude, pikaravihaiglate ja laste turvakodude teenuse korraldamine on omavalitsuste kohustus. 
+- Sotsiaaltoetuste saajatele ja pensionäridele ning lastele ühistranspordi ja kultuuriteenuste hinnasoodustuste loomine on kohaliku omavalitsuse ülesanne. 
+- Keskvalitsus ja omavalitsused peavad hoolt kandma kinnipidamiskohtadest vabanenute rehabilitatsiooni ja tööhõive korraldamise eest ning piiritlema oma ülesanded selles valdkonnas nii, et karistuspoliitika aitaks kaasa kuritegevuse vähenemisele. 
+Pensionid
+- Peame lähiaja kõige olulisemaks sotsiaalreformi ülesandeks uue, tulevikku suunatud pensionisüsteemi rakendamist, mis annab kindlustunde vanaduspäevadeks praegu tööeas olevale põlvkonnale ning parandab ka praeguste pensionäride ainelist olukorda.
+- Uus pensionisüsteem peab põhinema laiapõhjalisel ühiskondlikul kokkuleppel, milles oleksid põimunud eri põlvkondade, tööandjate ja töötajate ning riigi ja üksikisiku huvid. Ainult see tagab pensionisüsteemi stabiilsuse.
+- Mõõdukate arvates tuleb Eesti rahvastiku vanuselist koostist ja majandusliku arengu taset ning tulevikuväljavaateid silmas pidades lähiajal luua pensionisüsteem, mis koosneb riiklikust pensionikindlustusest ja vabatahtlikust, eraalgatusele tuginevast pensionikindlustusest. Riiklikus pensionikindlustuses tuleb võtta sihiks seniselt jaotuspõhimõttel rajanevalt pensionisüsteemilt järkjärgult üle minna kogumispõhimõttel toimivale pensioni kindlustusele.
+- Riiklik pensionikindlustus peab tagama igale pensioniikka jõudnud isikule vähemalt sotsiaalsele elatusmiinimumile vastava sissetuleku; sellele lisandub isiku individuaalsest sissemaksest arvestatav osa.
+- Püsiva või ajutise töövõimetuse puhuks tuleb ette näha töövõimetuspension, mille suuruse määramisel arvestatakse töövõime kaotuse astet ja isiku eelnevat tööpanust.
+- Toitjakaotuspension peab tagama iseseisva toimetuleku isikutele, kes on olnud ülalpeetavad ja kellel puudub võimalus tööle asuda. 
+Puuetega inimesed
+Töö-ja eluruumid, ameti-, haridus-, kultuuri-, spordi-ja teenindusasutused, linnakeskkond ja transport peavad vastama puuetega inimeste vajadustele. Nende järgi tuleb kohandada ehituse ja keskkonnakujunduse standardid.
+Puuetega inimestel on õigus riiklikult tagatud eriõppele ja õigus saada abi olmeliseks toimetulekuks. Selleks on vajalik tõhus infovahetus puuetega inimeste, nende organisatsioonide ja ühiskonna vahel.
+Puuetega inimeste tööhõive suurendamiseks on vaja ergutada maksusoodustustega neid ettevõtjaid, kes kasutavad puuetega inimeste tööjõudu, ning toetusega neid puuetega inimesi, kes ise töökohti loovad. Puuetega inimeste tööhõive korraldamisega peavad tegelema nii omavalitsused kui ka tööturuamet.
+Puuetega inimeste tarvis oluliseks eneseteostus-ja toimetulekuvõimaluseks peame väikeettevõtlust.
+Eluase
+Oleme seisukohal, et inimväärse ja turvalise elu üheks eelduseks on eluaseme olemasolu, mida inimene j a pere saab pidada oma koduks. Seadused peavad kaitsma kodu puutumatust.
+Keskvalitsus ja omavalitsused peavad igati soodustama investeeringuid eluaseme soetamiseks ja elamute heakorrastamiseks. Peame vajalikuks eluasemelaenu soodustusi noortele peredele ja laenu osalist riigi-või omavalitsusepoolset kustutamist seoses lapse sünniga.
+Seisame selle eest, et igaüks suudaks oma eluasemekulud ise katta. Toetus on põhjendatud nendel juhtudel, kui pere sissetulekud ei võimalda tasuda kõiki kulutusi sotsiaalselt põhjendatud elamispinna eest. Pere suuruse ootamatu vähenemise korral tuleb teatud aja jooksul maksta eluasemetoetust ka normpinnast suurema pinna puhul, et pereloleks võimalik kohandada oma elu muutunud olukorraga.
+Omavalitsuste käsutuses peab olema piisav arv kortereid, mida saab kasutada nende inimeste majutamiseks, kes ei suuda endale ise eluaset muretseda või kes on sunnitud elamispinna vabastama oma kohustuste täitmatajätmise tõttu. Seadusega tuleb keelata lastega perede tänavale tõstmine ilma neile uut peavarju pakkumata. Taas tuleb alustada munitsipaalelamuehitust.
+Oleme otsustavalt vastu omanike ja üürnike vastandamisele. Seadusega tuleb kaitsta nii omaniku kui üürniku huve ning sätestada mõlema poole õigused ja kohustused. Kohalik omavalitsus peab tegusalt kaasa aitama vastastikusele huvide arvestamisele ja nende tasakaalustamisele aktiivse eluasemepoliitika kaudu.
+Keskvalitsuse ja omavalitsuste tähtsaks lähiaja ülesandeks on elamufondi valdava osa erastamise lõpuleviimine ning elamute juurde kuuluva maa erastamine, samuti kaasaaitamine korteriomanike ühistegevuse arendamisele elamute majandamisel.
+Nendel juhtudel, kui elanikud ei ole võimelised korteriühistut moodustama, peab omavalitsus seaduse alusel määrama elamule hooldaja.
+Soosime konkurentsi kommunaalmajanduses ja selle kaudu teenuste hinna alanemist ning paremat teenindamist. Monopoolses seisundis ettevõtete hinnakujundus tuleb allutada kohaliku võimu ausale ja asjatundlikule kontrollile.
+Noorsoo toimetulek 
+Keskvalitsuse ja omavalitsuste hool on toetada noori hariduse omandamisel, perekonna loomisel ning eluaseme muretsemise!. Koos laenuvõimalustega tuleb leida enam raha noortele mõeldud sotsiaaltoetuste ja dotatsioonide tarvis.
+Efektiivsesse haridussüsteemi tehtavad investeeringud ning haridussüsteemi ühtlustamine Euroopa Liidu nõuetega tagavad kvaliteetsema ja arenguvõimelisema tööjõu ning aitavad ära hoida tööpuuduse järsu kasvu noorsoo hulgas.
+Omavalitsuste noorsootööl on paralleelselt kooli ja koduga oluline roll kuritegevuse ja uimastite leviku tõkestamisel ning salliva Ja aktiivse eluhoiaku kujundamisel. Avalik sektor peab noorsootöö subsideerimise kaudu looma tingimused noore isiksuse igakülgseks arenguks.
+HARIDUS, KULTUUR JA TEADUS
+Haridus
+- Eesti peab olema õppiv ühiskond - meie teeks teabeühiskonda on kõikehõlmav areng õppimise kaudu. Haridus on tähtsaim tulevikuinvesteering, mis loob eelduse isiklikule ja rahvuslikule eneseteostusele.
+- Riiklik haridustellimus tuleb suunata innovaatilisele (uuenduslikule) arengule, mitte ainult avaliku sektori vajaduste rahuldamisele. Lisaks riiklikule tellimusele peab hariduses olema võimalus ka eratellimusele.
+- Peame vajalikuks hariduse väärtustamist riikliku palgapoliitika kaudu, et vältida haritud inimeste äravoolu Eestist.
+- Peame vajalikuks seostada hariduspoliitika sotsiaalpoliitikaga ja käsitada haridust inimarengu vaatekohalt.
+- Tuleb tagada võimetele vastava ja neid arendava hariduse kättesaadavus. Eesmärgiks peab saama arenguvõimaluste individuaalne kasutamine, mitte ühtlustamine andekamate arvel.
+- Haridussüsteem peab olema seotud Põhjamaade ja Euroopa haridussüsteemiga. Tuleb tagada Eesti-keskse ning globaalse lähenemisviisi tasakaal.
+- Toetame ühtluskooli põhimõtet, riiklikke hariduskavasid, mille alusel on igal koolil võimalik korraldada oma õppetööd.
+- Üldhariduse tähtsaimaks osaks peame kvaliteetset põhiharidust kui inimese edasise hariduse ja toimetuleku eeldust. Põhikooli tuleb viia tervise- ja toimetulekuõpetus.
+- Peame üldhariduse parema kvaliteedi saavutamiseks olulisi makseelduseks kõigile lastele koolieelse alushariduse võimaldamist.
+- Haridusvõrgu korrastamisel peame silmas alus-ja põhihariduse elukohakesksust ja üldkättesaadavust ning keskhariduse kõrget kvaliteeti, mis üldjuhul nõuab gümnaasiumide eraldamist põhikoolist ja nende koondamist suurematesse keskustesse. Gümnaasiumide ja kutseõppeasutuste koondamisel tuleb kindlustada koolitransport ja ööbimisvõimalused kõigile õpilastele, kes seda vajavad. Keskhariduse korraldamine tuleb viia maakonna tasemele.
+- Koolidesse tuleb luua erirühmad haigetele ja tugiõpet vajavatele lastele, kelle suunamine erikoolidesse ei ole soovitav ega otstarbekas. Liikumispuuetega ja muude kehaliste puuetega laste peredele tuleb tagada abivahendid lapse koolitamiseks kohalikus koolis või kodus.
+- Kutsehariduses peab lisaks kitsale erialasele koolitusele saavutama ka laiema kutsealase ettevalmistuse. Toetame kutseõppeasutustes erialakoolitusele lisanduvat keskharidust.
+- Kutseharidus peab vastama tööturu nõudmistele, selleks tuleb tööturu osapooled kaasata kutsehariduse korraldamisse.
+- Ülikoolid peavad olema autonoomsed. Me ei toeta õpemaksu kehtestamist riiklikes õppeasutustes normaalõppeaja jooksul. Üliõpilastele, magistrandidele ja doktorantidele peab riik tagama võimaluse saada madalaprotsendilist õppelaenu. Laen peab olema kättesaadav kõigile soovijatele. Nende ülikooli lõpetanute õppelaen, kes asuvad tööle riigivõi omavalitsusasutustesse, tuleb järk-järgult kustutada.
+- Täiskasvanute totaalne täiend-ja ümberõpe on oluline tööhõiveprobleemide lahendamisel ning tagab majanduse ja ühiskonna kiire kohastumise muutustega. Toetame Põhjamaade eeskujul rajaneva rahvakoolitussüsteemi rajamist Eestis. Kõik tõendatud koolituskulud peavad olema tulumaksuvabad.
+- Eriti oluliseks peame õpetajate täiendõpet, pidevat vaimset enesearendamist ja riiklikult finantseeritud võimalust omandada kõrgharidus kaugõppe teel.
+- Rahvusvähemustel on õigus emakeelsele üldharidusele. Eesti keele õpetamine mitte-eestlastele peab saavutama taseme, mis võimaldab nende integreerumist Eesti ühiskonda ning eestikeelse kõrghariduse omandamist.
+Kultuur 
+- Eesti keelele ja kultuurile arengutingimuste loomine on Eesti riikluse eesmärk ja mõte. Käsitleme kultuuri avatud ühiskonnas rahvusliku eneseteadvuse tähtsaima allikana ja eneseteostuse vahendina.
+- Näeme kunsti kui inimese loomingujõu väljendust. Kunstnik loob ühiskonnale ja ühiskond vajab kunstnikku maailma mõtestamiseks. Loovaks tööks vajab kunstnik intellektuaalset vabadust ja materiaalset kindlustatust.
+- Keskne on eestikeelse originaalloomingu väärtustamine. Madalakvaliteedilisele massikultuurile saab vastu seista omakeelse kultuuri ühiskonnale kättesaadavaks tegemisega.
+- Kõrvuti eesti kultuuri ja hariduse arendamisega peab Eesti riik looma rahvusvähemustele tingimused oma kultuuri arendamiseks.
+- Õppe-ja teaduskirjanduse ning eesti autorite teoste, eelkõige rahvusentsüklopeedia kirjastamine tuleb maksustada O-protsendilise käibemaksuga. Riigi toetust vajab ka eesti teatri, filmi, muusika ja kujutava kunsti viljelemine.
+- Käsitame tippsporti kui isiklikku ja rahvuslikku eneseteostust võimaldavat ja inimkonda kõige laiemal humanistlikul alusel ühendavat kultuurinähtust. Peame vajalikuks väärtustada ja seadustada tippsport kui elukutse ning luua talle sotsiaalsed garantiid.
+Teadus 
+- Teadus on Eesti kultuuri lahutamatu koostisosa, mis tagab Eesti intellektuaalse sideme muu maailmaga. Teadus on ressurss, mis võimaldab arendada ka teadusväliseid ühiskondliku elu valdkondi. 
+- Teaduspoliitika peab võimaldama Eesti teaduspotentsiaali maksimaalselt ära kasutada Eesti ühiskonna ees seisvate ülesannete lahendamiseks, arengusuundade määramiseks ning riigi majanduse arendamiseks kõrgtehnoloogilise ja innovaatilise tootmise suunas. 
+- Toetame teadusuuringute ja arendustegevuse riikliku rahastamise suurendamist ning peame vajalikuks tõhustada erasektori panust nendesse valdkondadesse. Toetame Eesti teadlaste osalust rahvusvahelistes uurimisprogrammides. 
+- Jätkata tuleb ülikoolivälise teadus-ja arendustegevuse integreerimist ülikoolidega, see tagab teadlaskonna pideva uuenemise ja rahva vaimupotentsiaali maksimaalse rakendamise. Ühtlasi peame vajalikuks taastada Teaduste Akadeemia kui teaduspoliitika kujundaja ja elluviija maine ning ei välista, et mõni uurimiskeskus on Teaduste Akadeemia juures. 
+- Toetame rahvusteaduste arengut ja soovime rahvuslike ja rahvusvaheliste Eesti-suunaliste uurimisprogrammide kaudu kaasata sellesse valdkonda ka teiste maade teadlasi. 
+- Tartu Ülikoolis tuleb laiendada rahvusvahelist soome-ugri rahvastele ja Venemaale suunatud õppe-ja uurimistegevust, kasutades ära meie teadlaste teadmisi ja kogemusi. 
+Rahvuspoliitika 
+- Meie rahvuspoliitika peaeesmärk on Eesti ühiskonna liitmine ühiste euroopalike ja demokraatlike väärtuste alusel. Välistame mitte-eestlaste sundassimilatsiooni. 
+- Austame, inimeste seotust oma rahvuskultuuriga kui isiksuse arengu alust. Sel lest lähtudes peame võimalikuks eestlaste ja teistest rahvustest inimeste koostööd. 
+- Toetame rahvusvähemuste õigust kultuurautonoomiale ja emakeelsele haridusele, kuid et võtta täisväärtusliku ühiskonnaliikmena osa ühiskonnaelust ning riigi-ja omavalitsuste demokraatlikust juhtimisest, peavadnad oskama ka eesti keelt ja tundma eesti kultuuri.
+- Riik peab soodustama muu päritoluga inimeste valmistumist Eesti kodakondsuse saamiseks ja nende integreerumist Eesti ühiskonda. Riik ja omavalitsused peavad keeleõpet toetama. 
+- Kool peab kaasa aitama teistest rahvustest noorte integreerumisele Eesti ühiskonda ja nende ettevalmistamisele Eesti kodanikuks saamiseks. Iga muukeelse põhikooli lõpetanud noor peab olema võimeline jätkama haridusteed eestikeelses keskkoolis ja hiljem kõrgkoolis.
+- Peame ohtlikuks ühiskonna politiseerumist ja parteistumist rahvuslikul pinnal. Soovime näha Eesti erakondade liikmeskonnas erinevast rahvusest inimesi.
+RIIGIKAITSE JA SISEKORD 
+Riigikaitse 
+- Riigi sisemise ja välise julgeoleku tagamine on riigi põhiülesandeid, mida on edukalt võimalik lahendada ainult siis, kui rahvas on valmis oma riiki kaitsma. Peame oma kohustuseks toetada ühiskonnas mõtteviisi, mille järgi on riigikaitse ja kaitseväeteenistus vajalik ja vältimatu. Riigikaitsealane ettevalmistus peab alguse saama juba koolis. 
+- Demokraatliku riigi kaitsepoliitika tuleb rajada rahva informeeritusele riigikaitse põhialustest ja poliitiliste jõudude kokkuleppele. See eeldab, et kõik riigikaitse seisukohalt olulised otsused tuleb läbi arutada ja otsus langetada Riigikogu tasandil. 
+- Eesti julgeoleku garantiiks peab saama koostöö NATO-ga, eesmärk on NATO täisliikmeks saamine. Selle saavutamiseni tuleb kasutada võimalusi arendada meie kaitsejõudude ja NATO koostööd rahupartnerlusprogrammi raames, samuti tuleb osa võtta rahvusvahelistest rahuvalve ja rahuoperatsioonides!. Toetame Läti ja Leeduga tehtava kaitsealase koostöö tihenemist. 
+- Kaitsejõud peavad alluma tsiviilkontrollile, mis hõlmab parlamentaarsete ja muude demokraatlike institutsioonide kontrolli nii kaitsejõudude juhtimise ja põhitegevuse kui ka majandustegevuse ning kaitsejõudude vaimse õhkkonna ja sotsiaalsete tingimuste üle. 
+- Riigikaitse ülesehitamisel peame silmas tõhusa totaalkaitse põhimõtte ellurakendamist, mis nõuab kõigi kodanike väljaõpet ja pidevat valmisolekut kodumaa kaitsmiseks. 
+- Totaalkaitse alus on Kaitseliit ja tema traditsioonid. Senisest tõhusamalt tuleb kontrollida Kaitseliitu astujaid ning relvade väljaandmist kaitseliitlastele ja relvade kasutamist. 
+- Kaitsejõudude põhiosaks peaksid jääma noormeeste kohustuslikule (ja tütarlaste vabatahtlikule) kaitseteenistusele rajanevad regulaarsed kaitseväeüksused. Kohustuslik kaitseteenistus peab andma kõigile noorsõduritele üldsõjaväelise väljaõppe ja erialase ettevalmistuse ning oskuse tegutseda meeskonnana ja järgida kaitseväe distsipliini. 
+- Üliõpilastel peab olema alternatiivne võimalus saada kaitseväeline ettevalmistus õppeasutuses õppimise ajal. 
+- Kaitseväe tuumikuks peavad olema hea väljaõppega, mobiilsed ja nüüdisaegse relvastusega professionaalsed üksused. 
+- Ohvitseride väljaõpe peab jõudma tänapäeva tasemele. Selleks on vaja suunata senisest rohkem kadette ja õppejõude õppima lääneriikidesse ja kutsuda Eestisse asjatundjaid teistest riikidest, et koolitada siin ohvitsere ja allohvitsere. 
+- Reservväelaste regulaarse väljaõppe peab korraldama Kaitseministeerium koos Kaitsejõudude Peastaabi ja Kaitseliiduga ning selleks tuleb leida vahendid ja koostada kindel ajakava. 
+- Mõõdukad käsitavad rahvuslikku julgeolekut mitte üksnes kui riigi sõjalise kaitsevõime küsimust, vaid kui riigi sise-ja välispoliitilise tasakaalu ning ühiskonna vaimse küpsuse küsimust.
+Sisekord 
+- Inimeste turvalisuse tagamisel on esmatähtis kõrvaldada kuritegevuse sotsiaalsed allikad. Selleks tuleb erilist tähelepanu pöörata noorsoo kasvatamisele, narkoäri tõkestamisele, tööpuuduse sotsiaalsete tagajärgede ennetamisele ning asotsiaalsetes peredes kasvavate laste kaitsmisele. 
+- Lähtume põhimõttest, et siseriiklik turvalisus tagatakse politsei, piirivalve, tolli, Kaitseliidu ja kogu elanikkonna koostöös. Mainitud institutsioonid ei võistle omavahel, vaid abistavadja täiendavad üksteist. 
+- Ühiskonna turvalisuse saavutamiseks ja kuritegevuse ohjeldamiseks tuleb tugevdada politseid, suurendada tema tegusust ja parandada mainet.
+- Korrakaitseasutused peab kindlustama usaldusväärse, riigile ustava ja väljaõppinud kaadriga, kellele tuleb tagada keskmisest suurem palk ja tema töö ohtlikkusele vastavad sotsiaalsed tagatised.
+- Piirivalves tuleb kohustuslik teenistus asendada vabatahtlikule alusele rajatud professionaalse, hea väljaõppe ja nüüdisaegse varustusega piirivalveteenistusega. Erandina võib piiriäärsetes valdades elavad noormehed pärast kuuekuulist ajateenistust suunata piirivalvekursustele ja sellele järgnevale piiripraktikale (ajateenistuse piires), see tagab erakorralistel juhtudel piirivalvele kiire professionaalse abi. 
+- Oluliselt on vaja parandada piiril tegutsevate riiklike struktuuride koostööd, luua ühine andmebaas, milles on piirikontrolliks vajalik informatsioon, ning tagada infovahetus naaberriikide piirivalveteenistustega. 
+- Et tugevdada riigipiiri ja tagada kontroll kogu Eesti ala üle, toetame asundustegevuse riiklike programmide kaudu kodanike ümberasumist piirialadele ning hõredalt asustatud piirkondadesse. 
+- Riik peab tagama kutselistele päästeteenistustele nüüdisaegse väljaõppe ja varustuse, toetada on vaja ka vabatahtlikke tuletõrje-ja päästeühinguid ning korraldada elanike väljaõpet eriolukordades tegutsemiseks. 
+- Ühiskonna turvalisuse tagamisel on oluline osa ka eraturvateenistustel. Lubamatu on politsei ja eraturvafirmade ülesannete, teabe ja kaadri segunemine, seda tuleb seadusega välistada. 
+- Elanikkonna osalus korrakaitses on võimalik ainult reaalselt toimiva kodanikukaitsesüsteemi kaudu, mille ülesanne on sellealaste õppuste korraldamine. 
+- Iseenda ja oma kodu kaitseks relva omamine on vaba kodaniku õigus, kuid relvalubade väljaandmisel ja relvade hoidmisel on vajalik range kord ja järelevalve. Loata relva, laskemoona ja lõhkeaine omamist, valmistamist ja kasutamist tuleb rangelt karistada. 
+- Peame vajalikuks tõsta kohtute usaldusväärsust ja efektiivsust, selleks tuleb parandada õiguskaitseorganites tegutsevate inimeste väljaõpet ja kohtusüsteemi juhtimist. Õigusabi peab olema kvaliteetne ning kättesaadav ka majanduslikult vähekindlustatud isikutele. 
+- Kurjategijad peavad saama õiglase karistuse. Kinnipidamiskohas peab inimene olema hõivatud töö ja õpingutega ning tasuma suurema osa kinnipidamiskuludest ise. 
+EESTI JA MAAILM 
+- Tunnustarne kõigi rahvaste õigust ise määrata oma saatust. Kuni kellegi vabadus on ohus, on ohus kõikide vabadus. Meie sümpaatia kuulub rahvastele, kes alles võitlevad oma vabaduse ja iseseisvuse eest.
+- Meie püüdlused on suunatud sellele, et Eestit tunnustataks uuenevas Euroopas võrdväärse partnerina. Meie välispoliitika peaeesmärk on Eesti ühinemine Euroopa Liiduga. Sellest eesmärgist tuleneb Eesti ees seisev ülesanne -arendada oma demokraatliku riikluse, majanduse ja ühiskonnaelu kõiki valdkondi vastavuses euroopalike tavade ja normidega. 
+- Euroopa Liiduga Ühinemiseks on vajalik Eesti ühiskonna teadlik nõusolek ja valmisolek. Tuleb alustada üldrahvalikku arutelu ja selgitada, mida ühinemine Euroopa Liiduga tähendab ja kuidas see mõjutab Eesti julgeolekut, majandust, kultuuri ja rahva heaolu. Ühinemiseks vajaliku põhiseadusliku otsuse peab langetama Eesti rahvas referendumil. 
+- Nii Euroopa Liitu pürgimisel kui ka selles organisatsioonis olles omistame erilise tähenduse tihedale koostööle Põhjamaadega ning tasakaalustatud suhetele kõigi Läänemere piirkonna partneritega. Arvame, et koostöö Läänemere piirkonnas tugevdab suhteid Balti riikidega ning aitab oluliselt parandada Eesti ja Venemaa suhteid ja soodustab heanaaberlikku koostööd Venemaaga. 
+- Eesti välissuhtlus ja majandussidemed ei tohi piirduda ainult meile geograafiliselt lähedaste maadega. Peame eriti vajalikuks sõlmida sidemeid Ameerika Ühendriikidega. Eesti piiratud võimalustest johtuvalt peame tähtsaks ka majandussuhete eelisarendamist Kaug-Ida ja Kagu-Aasiaga, kuid ei välista sõbralikke ja kasulikke kontakte ühegi maailma piirkonnaga.
+- Oma huvide paremaks väljendamiseks ja kaitsmiseks toetame väikeriikide koostööd rahvusvahelistes organisatsioonides. 
+- Eesti välispoliitika peab selgelt ja püsivalt orienteeruma lähenemisele NATO-le ja ühinemisele temaga kui ainsa demokraatlikke riike ühendava kaitseorganisatsiooniga, mis võib Eestile anda reaalse julgeolekugarantii ja võimaluse tõhusalt osaleda vabaduse, demokraatia ja rahvusvahelise julgeoleku kaitsel. 
+- Vaba ja iseseisva riigina kannab Eesti rahvuslikku vastutust maailma ees. Aktiivne osavõtt ÜRO ja teiste rahvusvaheliste organisatsioonide tööst peab kindlustama Eesti tuntuse ja autoriteedi kogu maailmas. Algatusvõime uute koostöövormide otsimisel ja globaalprobleemide lahendamise teede pakkumisel suudab korvata Eesti väiksuse. 
+- Tuleviku Eestit näeme avatud rahvusvahelise koostöö tugialana, mis ühinevas Euroopas ja maailmatsivilisatsioonis suudab säilitada oma rahvusliku identiteedi ja omapära.
